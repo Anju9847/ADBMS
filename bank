@@ -29,4 +29,4 @@ insert into Account values(1234,'Mundakkayam',5000),(1235,'varakkara',500),(1236
 select * from Account;
 insert into Depositer values('Divya P',1234),('Sunil',1235),('Amal',1236),('Smith',1237),('Meera',1238);
 select * from Depositer;
-select customer_name from Customer where Loan.loan_no = Borrower.loan_no;
+
